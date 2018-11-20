@@ -11,7 +11,7 @@ public interface UserDao{
     */
 //   @Insert("insert user (username,password) values (#{username},#{password})")
    public void inserUser(String username,String password);
-
+//注释测试提交git
    /**
     * 查询登入
     * @param username
